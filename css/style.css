@@ -1,0 +1,25 @@
+#section-paquetes {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card-paquete {
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    height: auto;
+}
+
+body {
+    border: black 2px solid;    
+}
+
+header {
+    margin: 10px;
+}
+
+.titulo {
+    background-color: rgb(160, 158, 158);
+}
